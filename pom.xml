@@ -11,6 +11,7 @@
     <modules>
         <module>shiro-chapter-01</module>
         <module>shiro-chapter-00</module>
+        <module>shiro-chapter-02</module>
     </modules>
 
     <repositories>
