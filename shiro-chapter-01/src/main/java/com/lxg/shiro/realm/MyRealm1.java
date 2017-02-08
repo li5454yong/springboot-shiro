@@ -14,7 +14,6 @@ public class MyRealm1 implements Realm {
 
         return token instanceof UsernamePasswordToken;
     }
-
     @Override
     public AuthenticationInfo getAuthenticationInfo(AuthenticationToken token) throws
             AuthenticationException {
